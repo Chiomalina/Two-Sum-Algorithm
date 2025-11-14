@@ -1,3 +1,6 @@
+
+
+
 # 🧩 Two Sum Problem — Clean & Efficient Python Solutions  
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
@@ -28,7 +31,7 @@ Each version is fully typed, documented, and covered by unit tests written with 
 ## 🧠 What This Project Demonstrates  
 
 - Deep understanding of **algorithm optimization** and computational efficiency.  
-- Clean, maintainable Python code following **PEP 8** and good naming practices.  
+- Clean, maintainable Python code following **PEP 8** and descriptive naming practices.  
 - Experience with **unit testing**, modularization, and reproducible structure.  
 - A data-driven, problem-solving mindset — from exploration to refinement.  
 
@@ -36,20 +39,19 @@ Each version is fully typed, documented, and covered by unit tests written with 
 
 ## 📁 Project Structure  
 
+```bash
 two_sum_problem/
-├── init.py
-├── naive_algorithm.py # O(n²) nested-loop approach
-├── hash_map_approach.py # O(n) optimized hash-map solution
+├── __init__.py
+├── naive_algorithm.py          # O(n²) nested-loop approach
+├── hash_map_approach.py        # O(n) optimized hash-map solution
 └── tests/
-├── test_naive_algorithm.py # Tests for naive solution
-└── test_hash_map_two_sum.py# Tests for optimized solution
+    ├── test_naive_algorithm.py # Tests for naive solution
+    └── test_hash_map_two_sum.py# Tests for optimized solution
 
-
-
+```
 ---
 
 ## 💡 Example Usage  
-
 
 from hash_map_approach import hash_map_two_sum
 from naive_algorithm import naive_algorithm_two_sum
@@ -57,8 +59,8 @@ from naive_algorithm import naive_algorithm_two_sum
 print(hash_map_two_sum([2, 7, 11, 15], 9))   # ➜ [0, 1]
 print(naive_algorithm_two_sum([3, 3], 6))    # ➜ [0, 1]
 
-
 ---
+
 ## 🧪 Running Tests
 ```python
 pip install pytest
@@ -74,13 +76,13 @@ pytest -q
 
 ## ⚙️ Technologies Used
 
-Language: Python 3.12
+- Language: Python 3.12
 
-Testing: pytest
+- Testing: pytest
 
-Typing: Python typing (List, Dict)
+- Typing: Python typing (List, Dict)
 
-Style: PEP 8 with meaningful variable names and docstrings
+- Style: PEP 8 with meaningful variable names and docstrings
 
 ---
 ## 📘 Learning Journey
@@ -110,6 +112,7 @@ This small project captures what I value in software engineering:
 - Building maintainable, testable, and reusable code.
 
 - Thinking like a problem-solver, not just a coder.
+- This demonstrates algorithmic understanding, attention to detail, and technical maturity which are among the qualities I bring to every project.
 
 ---
 ## 👨‍💻 About the Developer
@@ -123,6 +126,7 @@ This project is part of my continuous journey to master algorithms, data structu
 
 ## 📫 **Connect with me:**
 [LinkedIn](https://linkedin.com/in/lina-chioma-anaso)
+
 [GitHub](https://github.com/Chiomalina)
 
 ---
