@@ -5,7 +5,7 @@ import pytest
 # to ensure the import works and the project root is on sys.path, use sys.path.append
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 
-from naive_algorithm import naive_algorithm_two_Sum
+from naive_algorithm import naive_algorithm_two_sum
 
 @pytest.mark.parametrize(
 	"nums,target,expected",
@@ -25,7 +25,7 @@ from naive_algorithm import naive_algorithm_two_Sum
 )
 
 def test_found_pairs(nums, target, expected):
-	assert naive_algorithm_two_Sum(nums, target) == expected
+	assert naive_algorithm_two_sum(nums, target) == expected
 
 def test_no_solution():
-	assert naive_algorithm_two_Sum([1, 2, 3], 100) == []
+	assert naive_algorithm_two_sum([1, 2, 3], 100) == []
