@@ -26,4 +26,14 @@ Clean, maintainable Python code following PEP 8 and good naming practices.
 
 Experience with unit testing, modularization, and reproducible structure.
 
-A data-driven, problem-solving mindset — from exploration to refinement.
+A data-driven, problem-solving mindset from exploration to refinement.
+
+📁 Project Structure
+
+two_sum_problem/
+├── __init__.py
+├── naive_algorithm.py          # O(n²) nested-loop approach
+├── hash_map_approach.py        # O(n) optimized hash-map solution
+└── tests/
+    ├── test_naive_algorithm.py # Tests for naive solution
+    └── test_hash_map_two_sum.py# Tests for optimized solution
