@@ -15,3 +15,15 @@ This repository implements two distinct approaches:
 🔁 Naive Algorithm approach that Checks all possible pairs using nested loops with O(n²) time complexity.
 
 ⚡ Hash Map Algorithm approach stores complements in a dictionary for O(1) lookups and uses O(n) time complexity.
+
+Each version is fully typed, documented and covered by unit tests written with pytest.
+
+🧠 What This Project Demonstrates
+
+Deep understanding of algorithm optimization and computational efficiency.
+
+Clean, maintainable Python code following PEP 8 and good naming practices.
+
+Experience with unit testing, modularization, and reproducible structure.
+
+A data-driven, problem-solving mindset — from exploration to refinement.
