@@ -85,18 +85,18 @@ Style: PEP 8 with meaningful variable names and docstrings
 ---
 ## 📘 Learning Journey
 
-When I began this project, I started with the naive approach — a straightforward double loop that checks every pair of numbers. It worked fine for small arrays but quickly became inefficient as the list grew.
+When I began this project, I started with the naive approach a straightforward double loop that checks every pair of numbers. It worked fine for small arrays but quickly became inefficient as the list grew.
 
 Curiosity led me to analyze its time complexity (O(n²)), and I challenged myself to optimize it.
-By introducing a hash map (dictionary), I learned to track complements in real-time — cutting the complexity down to O(n) while maintaining clarity and correctness.
+By introducing a hash map (dictionary), I learned to track complements in real-time, cutting the complexity down to O(n) while maintaining clarity and correctness.
 
 Through iterative testing and refactoring, I gained hands-on experience with:
 
-- Algorithmic thinking — recognizing patterns and trade-offs.
+- Algorithmic thinking, recognizing patterns and trade-offs.
 
-- Optimization techniques — using data structures to reduce runtime.
+- Optimization techniques, using data structures to reduce runtime.
 
-- Test-driven development — verifying correctness through every iteration.
+- Test-driven development,  verifying correctness through every iteration.
 
 This journey reflects my growth as a developer: not just solving problems, but improving how I solve them.
 
@@ -119,7 +119,15 @@ Software Engineering Student • Future Full-Stack Developer
 
 I’m passionate about writing clean, efficient, and purposeful code.
 This project is part of my continuous journey to master algorithms, data structures, and modern development practices.
-## 📫 Connect with me:
+
+
+## 📫 **Connect with me:**
+[LinkedIn](https://linkedin.com/in/lina-chiom-anaso)
 **linkedin.com/in/lina-chioma-anaso**
 
 **github.com/Chiomalina**
+
+---
+## 🧾 License
+
+MIT License — free to use, learn from, and build upon.
