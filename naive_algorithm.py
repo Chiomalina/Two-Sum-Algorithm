@@ -1,4 +1,4 @@
-def twoSum(nums, target):
+def naive_algorithm_two_Sum(nums, target):
 	"""
 	The function uses nested loop to check for possible pairs of nums that adds up to a target value
 	:param nums: list of numbers
