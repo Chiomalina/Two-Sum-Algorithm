@@ -122,7 +122,7 @@ This project is part of my continuous journey to master algorithms, data structu
 
 
 ## 📫 **Connect with me:**
-[LinkedIn](https://linkedin.com/in/lina-chiom-anaso)
+[LinkedIn](https://linkedin.com/in/lina-chioma-anaso)
 **linkedin.com/in/lina-chioma-anaso**
 
 **github.com/Chiomalina**
