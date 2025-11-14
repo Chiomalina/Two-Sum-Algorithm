@@ -12,6 +12,6 @@ Given an array of integers and a target value, return the indices of the two num
 
 This repository implements two distinct approaches:
 
-Approach	Description	Time Complexity
-🔁 Naive Algorithm	Checks all possible pairs using nested loops.	O(n²)
-⚡ Hash Map Algorithm	Stores complements in a dictionary for O(1) lookups.	O(n)
+🔁 Naive Algorithm approach that Checks all possible pairs using nested loops with O(n²) time complexity.
+
+⚡ Hash Map Algorithm approach stores complements in a dictionary for O(1) lookups and uses O(n) time complexity.
