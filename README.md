@@ -57,13 +57,14 @@ two_sum_problem/
 ---
 
 ## 💡 Example Usage  
+```python
 
 from hash_map_approach import hash_map_two_sum
 from naive_algorithm import naive_algorithm_two_sum
 
 print(hash_map_two_sum([2, 7, 11, 15], 9))   # ➜ [0, 1]
 print(naive_algorithm_two_sum([3, 3], 6))    # ➜ [0, 1]
-
+```
 ---
 
 ## 🧪 Running Tests
