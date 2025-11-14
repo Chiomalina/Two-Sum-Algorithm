@@ -28,6 +28,11 @@ Each version is fully typed, documented, and covered by unit tests written with 
 
 ---
 
+## 🔍 Topics
+
+python, algorithms, data-structures, two-sum, hash-map, problem-solving, leetcode, clean-code, pytest, computer-science, software-engineering, beginner-friendly
+
+
 ## 🧠 What This Project Demonstrates  
 
 - Deep understanding of **algorithm optimization** and computational efficiency.  
